@@ -1,4 +1,6 @@
 <img width="1412" alt="Screenshot 2023-01-09 at 10 50 01" src="https://user-images.githubusercontent.com/74609669/211280797-c1a18261-dd58-44e2-9ddc-cb23654fb68b.png">
+
+
 ### Hi, I am Angelina
 I mainly deal with programming and I am currently on a journey to become a PERN full-stack engineer.
 
