@@ -2,7 +2,7 @@
 
 
 ### Hi, I am Angelina
-I mainly deal with programming and I am currently on a journey to become a PERN full-stack engineer.
+I mainly deal with programming and I am currently studying Back-end development.
 
 <!--
 **angelinakoloska/angelinakoloska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
